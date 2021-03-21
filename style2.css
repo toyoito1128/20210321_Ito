@@ -17,6 +17,10 @@ a {
   margin: 100px auto;
 }
 
+img {
+  width: 100%;
+}
+
 .category {
   display: inline-block;
   text-align: left;
