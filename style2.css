@@ -1,0 +1,52 @@
+a {
+  width: 200px;
+  padding: 10px;
+  border-radius: 30px;
+  display: block;
+  margin: 100px;
+  margin: 0px auto;
+  background: linear-gradient(90deg, #ff5800, #8b00be);
+  box-shadow: 0px 5px 0px rgba(255, 0, 0, 0.2);
+  text-align: center;
+  color: white;
+  text-decoration-line: none;
+}
+
+.all {
+  width: 360px;
+  margin: 100px auto;
+}
+
+.category {
+  display: inline-block;
+  text-align: left;
+  margin: 15px;
+  background: #008888;
+  color: white;
+  font-size: 14px;
+  padding: 5px;
+}
+
+.comment {
+  font-size: 18px;
+  margin: 15px;
+  margin-bottom: 30px;
+}
+
+.bottom {
+  text-align: right;
+}
+
+.asa {
+  display: inline;
+  text-align: right;
+  color: #008888;
+  margin-bottom: 15px;
+}
+
+.days {
+  display: inline;
+  text-align: right;
+  color: #888888;
+  margin-bottom: 15px;
+}
